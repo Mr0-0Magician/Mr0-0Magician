@@ -1,15 +1,14 @@
-###                                                         Hi there 👋
+###                                                         🎩Hi there🎩
 
 
 
+- ⚡  I’m currently working on web programing
+- 🌱 I’m currently learning js & python
 
-- 🌱 I’m currently learning js & python 🎩
-
-- 😄 Pronouns: Smile 🎩
-
-- ⚡ Fun fact: The best place in the world to see rainbows is in Hawaii 🎩
+- 🎩 How to reach me:
 
 ✅ Email : amirrezaanam1384@gmail.com
+✅ instagram : @amir.reza.anamii
 
 
 <a href="https://github.com/Mr0-0Magician">
