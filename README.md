@@ -7,9 +7,9 @@
 
 - 🎩 How to reach me:
 
-  ✅ Email : mynameiskhoday2@gmail.com
+      ✅ Email : mynameiskhoday2@gmail.com
 
-  ✅ instagram : @amir.reza.anamii
+      ✅ instagram : @amir.reza.anamii
 
 - 🌟 interests : ceh & python & network & web & ruby
 
