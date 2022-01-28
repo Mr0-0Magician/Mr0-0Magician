@@ -11,6 +11,7 @@
 
   ✅ instagram : @amir.reza.anamii
 
+- 🌟 interests : ceh & python & network & web & ruby
 
 <a href="https://github.com/Mr0-0Magician">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr0-0Magician&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" /></a>
