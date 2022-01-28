@@ -1,6 +1,6 @@
 ###                                                         Hi there 👋
 
-<!--
+
 **Mr0-0Magician/Mr0-0Magician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Smile
 - ⚡ Fun fact: The best place in the world to see rainbows is in Hawaii.
--->
+
 
 <a href="https://github.com/Mr0-0Magician">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr0-0Magician&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" /></a>
