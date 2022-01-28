@@ -3,11 +3,11 @@
 
 
 
-- 🌱 I’m currently learning js & python 
+- 🌱 I’m currently learning js & python 🎩
 
-- 😄 Pronouns: Smile
+- 😄 Pronouns: Smile 🎩
 
-- ⚡ Fun fact: The best place in the world to see rainbows is in Hawaii.
+- ⚡ Fun fact: The best place in the world to see rainbows is in Hawaii 🎩
 
 
 <a href="https://github.com/Mr0-0Magician">
