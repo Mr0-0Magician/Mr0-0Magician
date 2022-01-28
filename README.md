@@ -7,7 +7,7 @@
 
 - 🎩 How to reach me:
 
-  ✅ Email : amirrezaanam1384@gmail.com
+  ✅ Email : mynameiskhoday2@gmail.com
 
   ✅ instagram : @amir.reza.anamii
 
