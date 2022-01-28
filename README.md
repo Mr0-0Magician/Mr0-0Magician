@@ -1,4 +1,4 @@
-################################################################################## Hi there 👋
+###                                                         Hi there 👋
 
 <!--
 **Mr0-0Magician/Mr0-0Magician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
