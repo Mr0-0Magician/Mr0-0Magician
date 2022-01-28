@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Smile
 - ⚡ Fun fact: The best place in the world to see rainbows is in Hawaii.
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr0-0Magician)](https://github.com/Mr0-0Magician/github-readme-stats)
 
 <a href="https://github.com/Mr0-0Magician">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr0-0Magician&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr0-0Magician&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
 
 <a href="https://github.com/Mr0-0Magician">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr0-0Magician&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr0-0Magician&theme=dracula" />
 </a>
