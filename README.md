@@ -7,9 +7,9 @@
 
 - 🎩 How to reach me:
 
-✅ Email : amirrezaanam1384@gmail.com
+  ✅ Email : amirrezaanam1384@gmail.com
 
-✅ instagram : @amir.reza.anamii
+  ✅ instagram : @amir.reza.anamii
 
 
 <a href="https://github.com/Mr0-0Magician">
